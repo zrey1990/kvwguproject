@@ -4,11 +4,11 @@
 
 ![Architecture Diagram](https://i.imgur.com/ZwA32ji.png)
 
-![Architecture Diagram](https://i.imgur.com/ZwA32ji.png)
+![Architecture Diagram](https://i.imgur.com/aKp49Lq.png)
 
 ![Architecture Diagram](https://i.imgur.com/0jfJs0F.png)
 
-![Architecture Diagram]([https://i.imgur.com/Sw5frJH.png)
+![Architecture Diagram](https://i.imgur.com/Sw5frJH.png)
 
 ![Architecture Diagram](https://i.imgur.com/pMNF3cc.png)
 
