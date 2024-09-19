@@ -1,5 +1,3 @@
-![Architecture Diagram](https://i.imgur.com/IocHn9t.png)
-
 ![Architecture Diagram](https://i.imgur.com/hjAPnVQ.png)
 
 ![Architecture Diagram](https://i.imgur.com/ZwA32ji.png)
